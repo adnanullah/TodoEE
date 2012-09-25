@@ -1,8 +1,8 @@
 TodoEE
 ======
 
-A simple Java-based command line todo application. Created a while back to help me study for my SCJP6 certification,
-demonstrates usage of generics and some simple design pattern.
+A very simple Java-based command line todo application. Created a while back to help me study for my SCJP6 certification,
+demonstrates usage of generics and some simple design patterns.
 
 REQUIRES: Java 6
 COMPILE: javac -cp src:. -d bin/ src/net/designspace/todoEE/TodoEE.java 
