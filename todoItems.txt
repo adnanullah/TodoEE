@@ -1,0 +1,17 @@
+!Inbox~~Miscellaneous things to do...~~~~Unscheduled~~Medium~~null~~true~~false~~0
+!Today~~Items that MUST be done today!~~~~Started~~Urgent~~null~~true~~false~~0
+!Next~~Items that need attention soon~~~~Queued~~High~~null~~true~~false~~0
+!Scheduled~~Items that have been planned~~~~Scheduled~~Medium~~null~~true~~false~~0
+!TodoEE [Java Project]~~Contains projects that will help me pass the SCJP exam~~~~None~~None~~null~~false~~true~~0
+#PERF: Use StringBuilder during save~~No description~~~~None~~None~~null~~false~~true~~0
+#BUGFIX: RM is showing INFO message~~No description~~~~None~~None~~null~~false~~true~~0
+#Implement move functionality for Tasks and SubTasks~~No description~~~~None~~None~~null~~false~~true~~0
+#Display Notes and Repeat Every fields in info views~~No description~~~~None~~None~~null~~false~~true~~0
+#Remove redundant useTime methods~~No description~~~~None~~None~~null~~false~~true~~0
+#BUGFIX: Add method should perform an existence check~~No description~~~~None~~None~~null~~false~~true~~0
+#Comment Code!~~No description~~~~None~~None~~null~~false~~true~~0
+#BUGFIX: Command keywords used in non-command input~~No description~~~~None~~None~~null~~false~~true~~0
+#BUGFIX: RebuildIndexes should fix key values on items~~No description~~~~None~~None~~null~~false~~true~~0
+#BUGFIX: Crash on editing status for an item~~No description~~~~None~~None~~null~~false~~true~~0
+#BUGFIX: Crash when accidently using set during edit~~No description~~~~None~~None~~null~~false~~true~~0
+#BUGFIX: Crash with case-sensitivity on enums used in edit~~No description~~~~None~~None~~null~~false~~true~~0
